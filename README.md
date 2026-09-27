@@ -9,8 +9,16 @@ This repository records only project-level agreements and proposals that are saf
 
 ## Start here
 
+- [Roadmap](docs/roadmap.md)
+- TrackerBuddy board — run `npm run tracker:board`, then open `.tracker/board.html` locally.
 - [Working rules](docs/working-rules.md)
 - [Workflow and open questions](docs/workflow-and-open-questions.md)
+
+## Project tracking
+
+This repository uses [TrackerBuddy](https://github.com/nickhilster/trackerbuddy) for its roadmap and delivery status. The source of truth is the Markdown under `.tracker/`; `board.html` is generated from those files. Install dependencies with `npm install`, edit the Markdown records, then run `npm run tracker:board` to refresh the local board.
+
+The roadmap separates the agreed collaboration rules from proposed operating steps and exploratory partnership ideas. The Symphony pulse configuration is still pending Nikhil's explicit approval; the tracker does not claim it has been changed or verified.
 
 ## How to read these notes
 

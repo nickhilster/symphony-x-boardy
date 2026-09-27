@@ -1,0 +1,24 @@
+{
+  "name": "symphony-x-boardy",
+  "version": "1.0.0",
+  "description": "Public collaboration notes for the Symphony x Boardy workflow.",
+  "scripts": {
+    "tracker": "trackerbuddy",
+    "tracker:init": "trackerbuddy init",
+    "tracker:board": "trackerbuddy board"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickhilster/symphony-x-boardy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickhilster/symphony-x-boardy/issues"
+  },
+  "homepage": "https://github.com/nickhilster/symphony-x-boardy#readme",
+  "devDependencies": {
+    "trackerbuddy": "github:nickhilster/trackerbuddy"
+  }
+}
