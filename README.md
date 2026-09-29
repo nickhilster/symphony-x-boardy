@@ -2,7 +2,7 @@
 
 Public collaboration notes for the Symphony x Boardy workflow.
 
-**Status:** Working agreement and open questions; no automated integration is documented as implemented.
+**Status (2026-09-27):** No automated integration is documented as implemented. The Maestro's dated, unverified intro-handler claim is recorded in [workflow provenance](docs/workflow-and-open-questions.md#provenance-notes).
 **Last reviewed:** 2026-09-27
 
 This repository records only project-level agreements and proposals that are safe to share publicly. It must not contain personal introduction records, contact details, LinkedIn URLs, credentials, or private message contents.
@@ -18,7 +18,7 @@ This repository records only project-level agreements and proposals that are saf
 
 This repository uses [TrackerBuddy](https://github.com/nickhilster/trackerbuddy) for its roadmap and delivery status. The source of truth is the Markdown under `.tracker/`; `board.html` is generated from those files. Install dependencies with `npm install`, edit the Markdown records, then run `npm run tracker:board` to refresh the local board.
 
-The roadmap separates the agreed collaboration rules from proposed operating steps and exploratory partnership ideas. The Symphony pulse configuration is still pending Nikhil's explicit approval; the tracker does not claim it has been changed or verified.
+The roadmap separates the agreed collaboration rules from proposed operating steps and exploratory partnership ideas. The Symphony pulse configuration is not verified as changed; SXB-2 remains open until the configuration is checked.
 
 ## How to read these notes
 
