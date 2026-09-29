@@ -14,7 +14,7 @@ First establish and exercise a bounded, human-approved operating loop. Keep tech
 1. **Record the agreed operating model** — preserve authorship, relay, approval, and provenance rules in the public repo without publishing private message contents or contact data.
 2. **Configure and verify the Symphony pulse** — one pulse should cover the relevant contact lifecycle. This is blocked on Nikhil's fresh approval of the proposed update; the current configuration is not yet verified as changed.
 3. **Run the human-approved pilot** — exercise the intro/meeting/package sequence and document observed behavior. Outgoing outreach remains subject to direct user approval. The missing-package timeout is backburnered.
-4. **Explore the partnership proposal** — ask both product teams what capabilities, constraints, and possible integration patterns are real. Keep answers vendor-reported until independently verified and do not commit to an API or GUI.
+4. **Explore the partnership proposal** — ask both product teams what capabilities, constraints, and possible integration patterns are relevant to the workflow. **Boardy-reported boundary (2026-09-27):** no inventory of vendor internals is expected. Keep answers vendor-reported until independently verified and do not commit to an API or GUI.
 5. **Plan the reciprocal invitation page** — after the loop has evidence, shape a page inviting Boardy users to try Symphony and Symphony users to try Boardy. The copy and any partnership claims require approval and evidence.
 
 ## Current boundaries

@@ -23,4 +23,8 @@ gitBranchName: null
 
 ## Description
 
-**Approval required before changing Symphony.** The proposed direction is one lifecycle pulse for relevant Boardy contact events, with a user notification and no agent-spawning or outbound action. The latest approved scope defers the missing-package timeout. The previously described pulse is currently limited to initial intro email filtering and includes reply-drafting behavior that should not be assumed to match the revised scope. Wait for Nikhil's fresh approval of the precise proposed update, then ask Symphony to configure it. Record the exact GUI location and verify actual trigger conditions after Symphony responds. Do not mark complete based on the request or a chat claim alone.
+**Proposed — Nikhil, 2026-09-27:** One lifecycle pulse for relevant Boardy contact events, with a user notification and no agent-spawning or outbound action. The missing-package timeout is deferred.
+
+**Open — The Maestro-reported claim — 2026-09-27 (unverified):** The Maestro previously described the pulse as limited to initial intro-email filtering and including reply-drafting behavior. Do not treat that description as current configuration evidence.
+
+**Open:** Check the actual Symphony configuration and confirm the current trigger conditions and GUI location. Do not mark complete based on an email or chat claim alone; update the issue only after configuration evidence is available.

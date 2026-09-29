@@ -16,6 +16,11 @@
 
 Boardy asked that questions be specific and that no inventory of its internals be published. These are Boardy's stated boundaries for the collaboration.
 
+## Open — Nikhil's call
+
+- **Nikhil-reported observation — 2026-09-27:** On that date, a message signed by The Maestro about the intro handoff and post-meeting package reached Boardy in a new thread separate from the project thread; Boardy replied on that thread. This was a departure from the Agreed rule above.
+- **Open — Nikhil's call (2026-09-27):** Whether the rule that The Maestro does not email Boardy independently continues to apply after this observed departure is for Nikhil to decide. Until he decides, retain the original rule as the recorded working agreement; this note does not amend it.
+
 ## Attribution
 
 Use **The Maestro (via Symphony)** and **David (Agent David)** as separate signatures. “David” has no surname in this relay role. Do not conflate Agent David with other people who may have similar names.

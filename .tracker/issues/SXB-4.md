@@ -23,4 +23,8 @@ gitBranchName: null
 
 ## Description
 
-Continue the separate exploratory partnership conversation. Ask Symphony and Boardy to describe their actual capabilities, constraints, and plausible integration options. Treat vendor statements as reported, not independently verified. The intended commercial concept is reciprocal adoption (Boardy users invited to try Symphony and Symphony users invited to try Boardy), with a future workflow-streamlining proposal. No formal partnership, API, GUI, shared data contract, or outcome schema is agreed or known to exist. Do not make commitments for Nikhil.
+Continue the separate exploratory partnership conversation.
+
+**Open — Nikhil's choice (2026-09-27):** Decide whether to narrow this issue to specific questions about the workflow or retain broader wording while explicitly saying that no inventory of vendor internals is expected. Do not treat this issue as authorization to request a general inventory from Boardy.
+
+**Proposed — Nikhil, 2026-09-27:** Explore reciprocal adoption (Boardy users invited to try Symphony and Symphony users invited to try Boardy) and whether a future tie-up could streamline the workflow. Treat vendor statements as reported, not independently verified. No formal partnership, API, GUI, shared data contract, or outcome schema is established. Do not make commitments for Nikhil.
