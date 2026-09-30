@@ -18,7 +18,7 @@ Boardy asked that questions be specific and that no inventory of its internals b
 
 ## Open — Nikhil's call
 
-- **Nikhil-reported observation — 2026-09-27:** On that date, a message signed by The Maestro about the intro handoff and post-meeting package reached Boardy in a new thread separate from the project thread; Boardy replied on that thread. This was a departure from the Agreed rule above.
+- **Nikhil-reported observation — 2026-09-27:** At 3:17 p.m. ET, a message signed by The Maestro about the intro handoff and post-meeting package reached Boardy in a new thread separate from the project thread; Boardy replied on that thread. This was a departure from the Agreed rule above.
 - **Open — Nikhil's call (2026-09-27):** Whether the rule that The Maestro does not email Boardy independently continues to apply after this observed departure is for Nikhil to decide. Until he decides, retain the original rule as the recorded working agreement; this note does not amend it.
 
 ## Attribution
