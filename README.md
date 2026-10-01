@@ -1,5 +1,7 @@
 # Symphony x Boardy
 
+Built with ❤️ by [Teambotics](https://www.teambotics.app)
+
 Public collaboration notes for the Symphony x Boardy workflow.
 
 **Status (2026-09-27):** No automated integration is documented as implemented. The Maestro's dated, unverified intro-handler claim is recorded in [workflow provenance](docs/workflow-and-open-questions.md#provenance-notes).
